@@ -1,0 +1,3 @@
+./simple-datasets/*
+./__pycache__/*
+./trained_models/*
